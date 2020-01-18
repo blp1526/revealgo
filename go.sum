@@ -1,0 +1,4 @@
+github.com/jessevdk/go-flags v1.4.0 h1:4IU2WS7AumrZ/40jfhf4QVDMsQwqA7VEHozFRrGARJA=
+github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
+github.com/mattn/go-bindata v3.0.8-0.20180208004055-46b8933a6deb+incompatible h1:x8fGyxOQmzle8QF/TjBuTUIyVZ0Q4Rw2WxJdjbS6NIY=
+github.com/mattn/go-bindata v3.0.8-0.20180208004055-46b8933a6deb+incompatible/go.mod h1:lIrn+nNrImsXEm3YdPfSQcKs8QaYIcTm7u1KOup4Kpk=
